@@ -1,3 +1,3 @@
 # Burger App
 
-![Demo of Build-A-Buger Website](./src/assets/burger.gif)
+![Demo of Build-A-Buger](./src/assets/burger.gif)
